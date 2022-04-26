@@ -1,0 +1,38 @@
+{
+  "name": "tools-components",
+  "version": "0.1.0",
+  "description": "Shared component library for -tools projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deus-labs/tools-components.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deus-labs/tools-components/issues"
+  },
+  "homepage": "https://github.com/deus-labs/tools-components#readme",
+  "dependencies": {
+    "clsx": "^1",
+    "next": "^12",
+    "next-seo": "^4",
+    "react": "^17",
+    "react-datetime-picker": "^3",
+    "react-dom": "^17",
+    "react-hook-form": "^7",
+    "react-hot-toast": "^2",
+    "react-icons": "^4",
+    "zustand": "^3"
+    
+  },
+  "devDependencies": {
+    "@types/node": "^17",
+    "@types/react": "^17",
+    "@types/react-datetime-picker": "^3",
+    "typescript": "^4"
+  }
+}
