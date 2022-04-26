@@ -9,7 +9,6 @@ export { default as FormControl } from './FormControl';
 export { default as FormGroup } from './FormGroup';
 export { default as HomeCard } from './HomeCard';
 export { default as Input } from './Input';
-export { default as InputDateTime } from './InputDateTime';
 export { default as JsonPreview } from './JsonPreview';
 export { default as LinkTab } from './LinkTab';
 export { default as Radio } from './Radio';

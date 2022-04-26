@@ -1,7 +1,7 @@
 import { ReactNode } from 'react'
 import { FaRegQuestionCircle } from 'react-icons/fa'
 import { IconBaseProps } from 'react-icons/lib'
-
+import React from 'react'
 import Tooltip from '../Tooltip/Tooltip'
 
 interface TooltipIconProps extends IconBaseProps {

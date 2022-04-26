@@ -1,7 +1,7 @@
 import clsx from 'clsx'
 import { DetailedHTMLProps, HTMLAttributes, ReactNode } from 'react'
 import { FaArrowRight } from 'react-icons/fa'
-
+import React from 'react'
 import Anchor from '../Anchor/Anchor'
 
 type BaseProps<T = HTMLDivElement> = DetailedHTMLProps<HTMLAttributes<T>, T>

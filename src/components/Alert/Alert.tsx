@@ -2,6 +2,7 @@ import clsx from 'clsx'
 import { DetailedHTMLProps, HTMLAttributes, ReactNode, useState } from 'react'
 import { FaExclamationTriangle, FaInfoCircle, FaTimes } from 'react-icons/fa'
 import { IconType } from 'react-icons/lib'
+import React from 'react'
 
 type BaseProps<T = HTMLDivElement> = DetailedHTMLProps<HTMLAttributes<T>, T>
 

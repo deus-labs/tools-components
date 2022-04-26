@@ -3,6 +3,7 @@ import { useState } from 'react'
 import { IoCloseSharp, IoCopyOutline } from 'react-icons/io5'
 import toast from 'react-hot-toast'
 import { Renderable } from 'react-hot-toast/dist/core/types'
+import React from 'react'
 
 export async function copy(
   text: string,

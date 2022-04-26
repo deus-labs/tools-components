@@ -1,5 +1,5 @@
 import clsx from 'clsx'
-
+import React from 'react'
 import Anchor from '../Anchor/Anchor'
 
 export type LinkTabProps = {

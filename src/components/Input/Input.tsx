@@ -1,5 +1,6 @@
 import clsx from 'clsx'
 import { DetailedHTMLProps, forwardRef, InputHTMLAttributes } from 'react'
+import React from 'react'
 
 export type InputProps<T = HTMLInputElement> = DetailedHTMLProps<
   InputHTMLAttributes<T>,

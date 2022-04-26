@@ -1,5 +1,6 @@
 import clsx from 'clsx'
 import { DetailedHTMLProps, HTMLAttributes, ReactNode } from 'react'
+import React from 'react'
 
 type BaseProps<T = HTMLDListElement> = DetailedHTMLProps<HTMLAttributes<T>, T>
 

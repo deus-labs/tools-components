@@ -2,6 +2,7 @@ import clsx from 'clsx'
 import BrandColorPicker, { BrandColor } from '../BrandColorPicker/BrandColorPicker'
 import { ComponentType, SVGProps, useState } from 'react'
 import { FaDownload } from 'react-icons/fa'
+import React from 'react'
 
 export interface BrandPreviewProps {
   name: string

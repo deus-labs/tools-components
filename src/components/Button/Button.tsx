@@ -1,6 +1,7 @@
 import clsx from 'clsx'
 import { ButtonHTMLAttributes, DetailedHTMLProps } from 'react'
 import { CgSpinnerAlt } from 'react-icons/cg'
+import React from 'react'
 
 export type ButtonVariant = 'solid' | 'outline'
 

@@ -1,6 +1,7 @@
 import clsx from 'clsx'
 import { DetailedHTMLProps, HTMLAttributes, InputHTMLAttributes } from 'react'
 import { FaSearch } from 'react-icons/fa'
+import React from 'react'
 
 type DivProps<T = HTMLDivElement> = DetailedHTMLProps<HTMLAttributes<T>, T>
 type BaseProps<T = HTMLInputElement> = Omit<

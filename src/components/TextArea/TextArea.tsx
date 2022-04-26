@@ -1,5 +1,6 @@
 import clsx from 'clsx'
 import { DetailedHTMLProps, TextareaHTMLAttributes } from 'react'
+import React from 'react'
 
 export type InputProps<T = HTMLTextAreaElement> = DetailedHTMLProps<
   TextareaHTMLAttributes<T>,
