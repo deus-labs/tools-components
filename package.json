@@ -1,6 +1,10 @@
 {
-  "name": "tools-components",
+  
+  "name": "@mightofoaks/tools-components-test",
   "version": "0.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/mightofoaks"
+  },
   "description": "Shared component library for -tools projects",
   
   "scripts": {
