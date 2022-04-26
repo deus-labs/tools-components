@@ -1,6 +1,6 @@
 {
   
-  "name": "@deus-labs/tools-components-test",
+  "name": "@deus-labs/tools-components",
   "version": "0.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/deus-labs"
