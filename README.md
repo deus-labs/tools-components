@@ -18,7 +18,6 @@ npm run rollup
 ```
 
 You should now have a `dist` folder ready with the bundled components.
-
 <br>
 
 ### 2. Publishing the package
@@ -35,5 +34,31 @@ registry=https://registry.npmjs.org/
 ```
 npm publish
 ```
+<br>
+
+### 3. Using the package
+
+
+- Install the package via npm:
+
+```
+npm i @deus-labs/tools-components
+```
+- Install ``postcss-import`` via npm:
+
+```
+npm i postcss-import
+```
+- Import the ``index.css`` file that's included in the package:
+```
+import '@deus-labs/tools-components/dist/esm/index.css';
+```
+- Import the components you need into your project:
+
+e.g.
+```
+import Button from '@deus-labs/tools-components';
+```
+
 
 
