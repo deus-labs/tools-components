@@ -1,16 +1,13 @@
 {
   "name": "@deus-labs/tools-components",
-  "version": "0.0.1",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/deus-labs"
-  },
+  "version": "0.0.7",
   "description": "Shared component library for deus-labs -tools projects",
   "scripts": {
     "rollup": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deus-labs/tools-components.git"
+    "url": "git://github.com/deus-labs/tools-components.git"
   },
   "author": "",
   "license": "MIT",
